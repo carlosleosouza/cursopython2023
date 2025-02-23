@@ -1,6 +1,6 @@
-nome = 'Luiz Otávio'
-altura = 1.80
-peso = 95
+nome = 'Carlos Leonardo'
+altura = 1.62
+peso = 80
 imc = peso / altura ** 2
 
 print(nome, 'tem', altura, 'de altura,',)
